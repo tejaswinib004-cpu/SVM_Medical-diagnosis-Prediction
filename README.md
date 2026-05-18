@@ -105,3 +105,8 @@ This project demonstrates a complete machine learning pipeline:
 - Deployment using Streamlit  
 
 It highlights the importance of removing irrelevant features and preparing clean data for better predictions.
+
+---
+
+# 👩‍💻 Author
+Tejaswini Bollaboina
