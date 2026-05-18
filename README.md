@@ -67,6 +67,15 @@ A simple web app was created using Streamlit.
 
 ---
 
+# ⚙️ Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Streamlit
+
+---
+
 ## ⚙️ How the App Works
 
 1. Loads dataset
